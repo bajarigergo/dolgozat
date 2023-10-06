@@ -1,0 +1,55 @@
+body{
+	background-image: url(black.png);
+	text-align: justify;
+	padding: 20px;
+}
+
+#tarolo{
+	margin: 20px;
+	padding: 20px;
+
+	
+	
+}
+.tartalom{
+	background-color:lightgray;
+	text-align: justify;
+	padding: 20px;
+	overflow: auto
+}
+img{
+	width:100%;
+	padding: 20px;
+}
+.kep{
+	width: 20% ;
+	height:20%;
+	float: right;
+	padding: 20px;
+}
+.lablec{
+	background-color: orange;
+	text-align: center;
+	margin:1px;
+}
+a{
+	color: white;
+}
+a.nav{
+	border:2px solid white;
+	padding: 15px;
+}
+p{
+	margin:0px;
+	
+}
+.menu{
+
+	background-color: rgb(50,50,50);
+	padding: 20px;
+	color: white;
+}
+.nav:hover{
+	background-color: orange; 	
+	
+}
